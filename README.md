@@ -14,6 +14,8 @@ This App is a basic calculator
 
 ## Portrait
 
-![Portrait](Documentation/image.png)
+![Portrait](Documentation/portrait.png)
 
 ## Landscape
+
+![Portrait](Documentation/landscape.png)
